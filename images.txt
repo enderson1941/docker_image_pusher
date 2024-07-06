@@ -3,7 +3,7 @@ jlesage/firefox:latest
 linuxserver/qbittorrent:latest
 linuxserver/jellyfin:latest
 linuxserver/radarr:latest
-fallenbagel/jellyseerr:latest
+fallenbagel/jellyseerr:1.8.1
 linuxserver/prowlarr:latest
 linuxserver/heimdall:latest
 linuxserver/sonarr:latest
