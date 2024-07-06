@@ -1,1 +1,9 @@
-containrrr/watchtower
+linuxserver/jackett:latest
+jlesage/firefox:latest
+linuxserver/qbittorrent:latest
+linuxserver/jellyfin:latest
+linuxserver/radarr:latest
+fallenbagel/jellyseerr:latest
+linuxserver/prowlarr:latest
+linuxserver/heimdall:latest
+linuxserver/sonarr:latest
