@@ -7,3 +7,4 @@ fallenbagel/jellyseerr:1.8.1
 linuxserver/prowlarr:latest
 linuxserver/heimdall:latest
 linuxserver/sonarr:latest
+portainer/portainer-ce:latest
