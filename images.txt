@@ -8,3 +8,5 @@ linuxserver/prowlarr:latest
 linuxserver/heimdall:latest
 linuxserver/sonarr:latest
 portainer/portainer-ce:latest
+ghcr.io/imagegenius/immich:latest
+finab/bark-server:latest
