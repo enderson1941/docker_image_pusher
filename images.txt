@@ -15,3 +15,6 @@ docker.io/flaresolverr/flaresolverr:latest
 docker.io/linuxserver/grocy:latest
 docker.io/linuxserver/resilio-sync:latest
 louislam/uptime-kuma:latest
+jokobsk/netalertx:latest
+henrygd/beszel:latest
+henrygd/beszel-agent:latest
