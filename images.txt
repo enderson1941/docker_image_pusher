@@ -18,3 +18,6 @@ louislam/uptime-kuma:latest
 jokobsk/netalertx:latest
 henrygd/beszel:latest
 henrygd/beszel-agent:latest
+kerberos/agent:latest
+p3terx/ariang:latest
+p3terx/aria2-pro:latest
