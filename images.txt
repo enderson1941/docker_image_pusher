@@ -21,3 +21,9 @@ henrygd/beszel-agent:latest
 kerberos/agent:latest
 p3terx/ariang:latest
 p3terx/aria2-pro:latest
+fjudith/draw.io:latest
+kerberos/agent:latest
+luckypuppy514/jproxy:latest
+metatube/metatube-server:latest
+p3terx/aria2-pro:latest
+p3terx/ariang:latest
