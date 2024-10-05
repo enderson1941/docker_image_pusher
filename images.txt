@@ -29,4 +29,4 @@ p3terx/aria2-pro:latest
 p3terx/ariang:latest
 jvmilazz0/kavita:latest
 gotson/komga:latest
-ahcr.io/advplyr/audiobookshelf:latest
+ghcr.io/advplyr/audiobookshelf:latest
