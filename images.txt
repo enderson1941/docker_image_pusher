@@ -4,6 +4,7 @@ linuxserver/qbittorrent:latest
 linuxserver/jellyfin:latest
 linuxserver/radarr:latest
 fallenbagel/jellyseerr:1.8.1
+fallenbagel/jellyseerr:1.9.0
 fallenbagel/jellyseerr:latest
 linuxserver/prowlarr:latest
 linuxserver/heimdall:latest
