@@ -33,3 +33,4 @@ jvmilazz0/kavita:latest
 gotson/komga:latest
 ghcr.io/advplyr/audiobookshelf:latest
 rehiy/dailyhot:latest
+ghcr.io/heyputer/puter:latest
