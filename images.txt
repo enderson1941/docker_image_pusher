@@ -20,7 +20,7 @@ louislam/uptime-kuma:latest
 jokobsk/netalertx:latest
 henrygd/beszel:latest
 henrygd/beszel-agent:latest
-kerberos/agent:latest
+kerberos/agent:v3.2.9
 p3terx/ariang:latest
 p3terx/aria2-pro:latest
 fjudith/draw.io:latest
