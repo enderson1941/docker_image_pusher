@@ -1,3 +1,4 @@
+lscr.io/linuxserver/homeassistant:latest
 linuxserver/jackett:latest
 jlesage/firefox:latest
 linuxserver/qbittorrent:latest
@@ -30,4 +31,3 @@ p3terx/ariang:latest
 jvmilazz0/kavita:latest
 gotson/komga:latest
 ghcr.io/advplyr/audiobookshelf:latest
-rehiy/dailyhot:latest
