@@ -1,6 +1,5 @@
 lscr.io/linuxserver/homeassistant:latest
 linuxserver/jackett:latest
-jlesage/firefox:latest
 linuxserver/qbittorrent:latest
 linuxserver/jellyfin:latest
 linuxserver/radarr:latest
@@ -17,17 +16,13 @@ docker.io/flaresolverr/flaresolverr:latest
 docker.io/linuxserver/grocy:latest
 docker.io/linuxserver/resilio-sync:latest
 louislam/uptime-kuma:latest
-jokobsk/netalertx:latest
-henrygd/beszel:latest
-henrygd/beszel-agent:latest
-kerberos/agent:v3.2.9
 p3terx/ariang:latest
 p3terx/aria2-pro:latest
 fjudith/draw.io:latest
-kerberos/agent:latest
 luckypuppy514/jproxy:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
 jvmilazz0/kavita:latest
 gotson/komga:latest
 ghcr.io/advplyr/audiobookshelf:latest
+simon-ding/polaris:latest
