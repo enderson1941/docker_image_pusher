@@ -1,4 +1,5 @@
 lscr.io/linuxserver/homeassistant:latest
+kerberos/agent:latest
 linuxserver/jackett:latest
 elleflorio/svn-server:latest
 linuxserver/qbittorrent:latest
