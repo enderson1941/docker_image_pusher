@@ -1,4 +1,3 @@
-ghcr.io/immich-app/immich-machine-learning:latest
 linuxserver/jackett:latest
 elleflorio/svn-server:latest
 linuxserver/qbittorrent:latest
