@@ -1,3 +1,4 @@
+ghcr.io/imagegenius/immich:1.132.0
 linuxserver/jackett:latest
 elleflorio/svn-server:latest
 linuxserver/qbittorrent:latest
