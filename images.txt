@@ -10,7 +10,7 @@ linuxserver/heimdall:latest
 linuxserver/sonarr:latest
 portainer/portainer-ce:latest
 ghcr.io/imagegenius/immich:latest
-ghcr.io/imagegenius/immich:1.133
+valkey/valkey:8-bookworm
 finab/bark-server:latest
 docker.io/soulteary/flare:latest
 docker.io/flaresolverr/flaresolverr:latest
