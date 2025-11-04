@@ -19,8 +19,6 @@ docker.io/flaresolverr/flaresolverr:latest
 docker.io/linuxserver/grocy:latest
 docker.io/linuxserver/resilio-sync:latest
 louislam/uptime-kuma:latest
-p3terx/ariang:latest
-p3terx/aria2-pro:latest
 fjudith/draw.io:latest
 luckypuppy514/jproxy:latest
 
