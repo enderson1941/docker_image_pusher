@@ -1,3 +1,4 @@
+1555904/solara-music:latest
 heizicao/nas-music:latest
 deluan/navidrome:latest
 linuxserver/jackett:latest
@@ -21,4 +22,3 @@ docker.io/linuxserver/resilio-sync:latest
 louislam/uptime-kuma:latest
 fjudith/draw.io:latest
 luckypuppy514/jproxy:latest
-
