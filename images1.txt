@@ -1,5 +1,4 @@
-1555904/solara-music:latest
-heizicao/nas-music:latest
+steefdebruijn/docker-roonserver:latest
 deluan/navidrome:latest
 linuxserver/jackett:latest
 elleflorio/svn-server:latest
@@ -11,14 +10,10 @@ fallenbagel/jellyseerr:latest
 linuxserver/prowlarr:latest
 linuxserver/heimdall:latest
 linuxserver/sonarr:latest
-portainer/portainer-ce:latest
 ghcr.io/imagegenius/immich:latest
-valkey/valkey:8-bookworm
 finab/bark-server:latest
 docker.io/soulteary/flare:latest
 docker.io/flaresolverr/flaresolverr:latest
-docker.io/linuxserver/grocy:latest
 docker.io/linuxserver/resilio-sync:latest
 louislam/uptime-kuma:latest
-fjudith/draw.io:latest
 luckypuppy514/jproxy:latest
